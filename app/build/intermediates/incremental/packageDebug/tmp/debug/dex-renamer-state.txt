@@ -1,0 +1,10 @@
+#Tue Aug 03 22:19:16 EAT 2021
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/deathstroke/Desktop/clients/emergency_client/MedRescue-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.1=/home/deathstroke/Desktop/clients/emergency_client/MedRescue-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.0=/home/deathstroke/Desktop/clients/emergency_client/MedRescue-master/app/build/intermediates/dex/debug/mergeDexDebug/out
